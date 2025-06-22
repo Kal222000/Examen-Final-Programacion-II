@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Examen-Final-Programacion-II\\BACKEND\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Examen-Final-Programacion-II\\BACKEND\\Repositorios\\Interfaces\\IUsuarioRepositiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositorios\\Interfaces\\IUsuarioRepositiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Examen-Final-Programacion-II\\BACKEND\\Modelos\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modelos\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Examen-Final-Programacion-II\\BACKEND\\Datos\\Mongo\\Interfaces\\ILibroRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Datos\\Mongo\\Interfaces\\ILibroRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Examen-Final-Programacion-II\\BACKEND\\Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "Modelos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Examen-Final-Programacion-II\\BACKEND\\Modelos\\Usuario.cs",
+              "RelativeToolTip": "Modelos\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T02:52:11.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILibroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Examen-Final-Programacion-II\\BACKEND\\Datos\\Mongo\\Interfaces\\ILibroRepository.cs",
+              "RelativeDocumentMoniker": "Datos\\Mongo\\Interfaces\\ILibroRepository.cs",
+              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Examen-Final-Programacion-II\\BACKEND\\Datos\\Mongo\\Interfaces\\ILibroRepository.cs",
+              "RelativeToolTip": "Datos\\Mongo\\Interfaces\\ILibroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T02:49:27.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUsuarioRepositiry.cs",
+              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Examen-Final-Programacion-II\\BACKEND\\Repositorios\\Interfaces\\IUsuarioRepositiry.cs",
+              "RelativeDocumentMoniker": "Repositorios\\Interfaces\\IUsuarioRepositiry.cs",
+              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Examen-Final-Programacion-II\\BACKEND\\Repositorios\\Interfaces\\IUsuarioRepositiry.cs",
+              "RelativeToolTip": "Repositorios\\Interfaces\\IUsuarioRepositiry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T02:48:03.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

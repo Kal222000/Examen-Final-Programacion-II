@@ -1,12 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Datos",
-    "\\Datos\\Mongo",
-    "\\Datos\\Mongo\\Implementations",
-    "\\Datos\\Mongo\\Interfaces",
-    "\\Modelos"
+    "\\Repositorios",
+    "\\Repositorios\\Interfaces"
   ],
-  "SelectedNode": "\\Datos\\Mongo\\Implementations\\LibroRepository.cs",
+  "SelectedNode": "\\Repositorios\\Interfaces\\ISP.cs",
   "PreviewInSolutionExplorer": false
 }
