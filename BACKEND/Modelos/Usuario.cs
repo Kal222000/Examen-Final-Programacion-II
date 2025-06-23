@@ -13,7 +13,7 @@ public partial class Usuario
 
     public string? ApellidoMaterno { get; set; }
 
-    public DateOnly? FechaNacimiento { get; set; }
+    public DateTime? FechaNacimiento { get; set; }
 
     public int? Carnet { get; set; }
 

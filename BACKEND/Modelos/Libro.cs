@@ -9,29 +9,24 @@ namespace BACKEND.Modelos
     {
         [BsonId] 
         [BsonRepresentation(BsonType.ObjectId)] 
-        public string _id { get; set; } 
+        public string _id { get; set; }
 
+        [BsonElement("titulo")]
         public string titulo { get; set; }
 
+        [BsonElement("autor")]
         public string autor { get; set; }
 
+        [BsonElement("genero")]
         public string genero { get; set; }
 
+        [BsonElement("fechaPublicacion")]
         public DateTime fechaPublicacion { get; set; }
 
+        [BsonElement("eliminado")]
         public bool eliminado { get; set; } = false;
 
+        [BsonElement("copies")]
         public List<CopiaLibro> copies { get; set; } = new List<CopiaLibro>();
-    }
-
-    public class CopiaLibro
-    {
-        public int copyId { get; set; }
-
-        public string editorial { get; set; }
-
-        public string estado { get; set; } = "disponible";
-
-        public bool eliminado { get; set; } = false;
     }
 }
